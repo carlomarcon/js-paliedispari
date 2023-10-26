@@ -1,21 +1,15 @@
 ### raccogliere risorse
 
--creare variabile con prompt all'interno per chiedere la parola
--creare funzione per riconoscere se la parola è la stessa letta al contrario
+-Creare un var prompt in cui chiediamo numero random da 1 a 5
+-Sreiamo funzione per generare numero random
+-Sommiamo i due numeri
+-Stabiliamo se la somma%2=0 oppure no tramite condizione
 
-### logica
+### Logica
 
--creare una variabile prompt, dove la parole si ottiene
--creare una variabile flag
--Creare una funzione avente come variabile la variabile prompt.
+-Creare 3 var: uno per il numero random del computer sotto funzione, la seconda con prompt per l'utente, la terza dove sommiamo i due numeri.
+Vince chi ha il numero più alto
 
-<!-- -All'interno della funzione creare una varibaile con la variabile prompt scomposta in un erray di lettere -->
+### output
 
--creare una variabile che conterrà la lista della nuova parola
--Creare un ciclo for per ottenere al contrario le parole della variabile in erray
--Pushare le nuove lettere nella nuova variabile
--Creare una condizione per vedere se corrispondono
-
-### OUTPUT
-
-CREARE RISULTATO
+Numero pari o dispari e chi ha vinto con alert
